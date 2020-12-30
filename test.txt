@@ -1,2 +1,4 @@
 adding new contents to the file
 wednesday thursday
+friday 
+saturday
